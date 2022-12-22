@@ -1324,6 +1324,10 @@ GLOBAL OPTIONS:
 
 ### 使用截图
 
-![x-crack001](https://docs.xsec.io/images/x-crack/x-crack001.png)
+![x-crack001](./images/x-crack001.png)
 
-![x-crack002](https://docs.xsec.io/images/x-crack/x-crack002.png)
+![x-crack002](./images/x-crack002.png)
+
+# 参考文档：
+
+https://zhuanlan.zhihu.com/p/32478913『安全开发教程』年轻人的第一款弱口令扫描器(x-crack)
