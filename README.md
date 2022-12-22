@@ -1324,6 +1324,10 @@ GLOBAL OPTIONS:
 
 ### 使用截图
 
+```bash
+[root@flower x-crack]# ./x-crack_linux_amd64 scan -i iplist.txt -u user.dic -p pass.dic -t 15
+```
+
 ![x-crack001](./images/x-crack001.png)
 
 ![x-crack002](./images/x-crack002.png)
