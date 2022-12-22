@@ -1324,6 +1324,6 @@ GLOBAL OPTIONS:
 
 ### 使用截图
 
-![](https://docs.xsec.io/images/x-crack/x-crack001.png)
+![x-crack001](https://docs.xsec.io/images/x-crack/x-crack001.png)
 
-![](https://docs.xsec.io/images/x-crack/x-crack002.png)
+![x-crack002](https://docs.xsec.io/images/x-crack/x-crack002.png)
